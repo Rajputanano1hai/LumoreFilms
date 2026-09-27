@@ -1,0 +1,68 @@
+LUMORE FILMS — WEBSITE PACKAGE
+================================
+
+WHAT'S IN THIS FOLDER
+----------------------
+A complete, fully responsive 8-page website, built and ready to preview:
+
+  index.html                     Home
+  about.html                     About Us
+  services.html                  Services (overview)
+  wedding-photography.html       Service: Wedding Photography
+  pre-wedding-photography.html   Service: Pre-Wedding Shoot
+  birthday-shoot.html            Service: Birthday Shoot
+  maternity-shoot.html           Service: Maternity Shoot
+  contact.html                   Contact Us (enquiry form)
+  css/style.css                  All styling (one file, easy to re-theme)
+  js/main.js                     Menu, submenu, lightbox, FAQ, form behaviour
+  images/                        Your logo, favicon and photos from Assets.zip
+
+Double-click index.html to preview the whole site locally in any browser.
+Every link in the header, footer, service cards and buttons is wired up
+and works between all 8 pages.
+
+IMPORTANT — ABOUT WORDPRESS, ELEMENTOR & FORMINATOR
+-----------------------------------------------------
+I'm not able to install or run an actual WordPress site (with a database,
+hosting, Elementor Pro and the Forminator plugin) inside this chat — that
+needs real web hosting and a live WordPress install, which I don't have
+access to here.
+
+What I've delivered instead is a complete, professionally designed,
+fully responsive HTML/CSS/JS website with all 8 pages, working navigation,
+a services submenu, and every page's real content and images — so you
+have something you (or your developer) can preview and use immediately.
+
+To turn this into the WordPress + Elementor + Forminator site you asked
+for, the fastest path is:
+
+1. Install WordPress on your hosting, then install Elementor (or
+   Elementor Pro) and the Forminator plugin.
+2. Recreate each page in Elementor using this HTML as the exact content
+   and layout reference — the text, images and structure are all final,
+   so it's a layout/build job rather than a design job.
+3. Upload the images/ and logo files from this package into the WP
+   Media Library.
+4. Build the Contact page's form in Forminator with these fields:
+   Full Name, Phone, Email, "Enquiring About" (dropdown: Wedding
+   Photography / Pre-Wedding Shoot / Birthday Shoot / Maternity Shoot /
+   Something Else), Event Date, City/Venue, Message — matching the
+   contact.html form exactly — then drop in the [forminator_form id=".."]
+   shortcode where contact.html has the placeholder <form>.
+5. Set the header menu to: Home, About, Services (with the 4 service
+   pages as a dropdown), Contact Us, plus the "Book Now" button —
+   exactly as built here.
+
+If you'd like, I can also hand this off in smaller pieces (e.g. write
+out the exact text/copy per section, or a field-by-field spec for the
+Forminator form) to make the Elementor rebuild faster for whoever builds
+it. Just ask.
+
+A NOTE ON IMAGES
+------------------
+Your Assets.zip didn't include any photos specifically shot for birthday
+or maternity sessions, so those two pages currently reuse the closest
+elegant/candid images from your wedding & pre-wedding sets as style
+placeholders. Swap in real birthday and maternity photos as soon as
+you have them — everything else (logo, favicon, and all wedding/
+pre-wedding photography) comes directly from Assets.zip.
